@@ -8,6 +8,7 @@ p{
 }
 ul{
     list-style-type: square;
+    list-style-image: url('images/pointer-icon.png');
 }
 ol{
     list-style-type: upper-roman;

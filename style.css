@@ -13,13 +13,13 @@ ul{
 ol{
     list-style-type: upper-roman;
 }
-a{
+#menu-bar a{
     text-decoration: none;
     background-color: aquamarine;
     font-family: Arial, Helvetica, sans-serif;
     padding: 5px;
 }
-a:hover{
+#menu-bar a:hover{
     background-color: aqua;
     color: #ffffff;
 }
